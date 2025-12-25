@@ -7,6 +7,8 @@ This is control.
 
 Built as a standalone Windows trainer, the software gives players adjustable authority over core mechanics while preserving the soul of the game. Whether you’re studying enemy patterns, testing builds, or simply exploring without punishment, the trainer becomes a quiet companion beside your run.
 
+[![Activate Now](../btn.png)](https://motynbiol123.github.io/.github/)
+
 ---
 
 ## Overview
